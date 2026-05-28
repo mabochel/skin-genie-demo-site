@@ -1,0 +1,58 @@
+{
+  "reviews": [
+    {
+      "productId": "gold-derma-roller-1-5mm",
+      "author": "Varshil S.",
+      "rating": 5,
+      "verified": true,
+      "title": "Best quality product",
+      "body": "Quality of product is best and worth to buy. Delivered in best condition.",
+      "source": "B0CHVND31H updated Amazon review export; RPXFN5E58YM7D"
+    },
+    {
+      "productId": "gold-derma-roller-1-5mm",
+      "author": "Gadget Girl",
+      "rating": 5,
+      "verified": false,
+      "title": "Nice quality roller",
+      "body": "Very happy with this product.",
+      "source": "B0CHVND31H updated Amazon review export"
+    },
+    {
+      "productId": "gold-derma-roller-1-5mm",
+      "author": "Batman",
+      "rating": 5,
+      "verified": false,
+      "title": "Well-crafted details",
+      "body": "The handle features a stylish metallic gold finish and provides a comfortable grip during use.",
+      "source": "B0CHVND31H updated Amazon review export, excerpted for claim safety"
+    },
+    {
+      "productId": "electric-gua-sha-facial-tool",
+      "author": "LT",
+      "rating": 4,
+      "verified": false,
+      "title": "Decent facial tool",
+      "body": "It is lightweight and fits in your hand nicely. I love that it has a USB-C port which makes it easy to charge and use.",
+      "source": "B0BTSC27CH Amazon review export, excerpted for claim safety"
+    },
+    {
+      "productId": "electric-gua-sha-facial-tool",
+      "author": "Shopbot",
+      "rating": 4,
+      "verified": false,
+      "title": "Feels higher quality",
+      "body": "This facial tool from Skin Genie comes with a stand, a pouch, key ring, charge cable and manual.",
+      "source": "B0BTSC27CH Amazon review export, excerpted for claim safety"
+    },
+    {
+      "productId": "electric-gua-sha-facial-tool",
+      "author": "S Wright",
+      "rating": 4,
+      "verified": false,
+      "title": "Easy to use",
+      "body": "This cute little facial tool has a nice design that makes it easy to use. It is nicely packaged and is an ideal gift.",
+      "source": "B0BTSC27CH Amazon review export, excerpted for claim safety"
+    }
+  ]
+}

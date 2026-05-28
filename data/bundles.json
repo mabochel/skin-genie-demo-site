@@ -1,0 +1,28 @@
+{
+  "bundles": [
+    {
+      "id": "daily-ritual-duo",
+      "title": "Daily Ritual Duo",
+      "productIds": [
+        "electric-gua-sha-facial-tool",
+        "derma-roller-0-5mm"
+      ],
+      "priceCAD": 219,
+      "compareAtCAD": 234,
+      "label": "Starter pair",
+      "body": "Pair the facial tool with the 0.5mm starter roller for a complete cosmetic routine."
+    },
+    {
+      "id": "gold-upgrade-set",
+      "title": "Gold Upgrade Set",
+      "productIds": [
+        "electric-gua-sha-facial-tool",
+        "gold-derma-roller-1-5mm"
+      ],
+      "priceCAD": 239,
+      "compareAtCAD": 248,
+      "label": "Advanced pair",
+      "body": "For experienced beauty-tool users who want the electric facial tool with the black-and-gold roller."
+    }
+  ]
+}

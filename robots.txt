@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mabochel.github.io/skin-genie-demo-site/sitemap.xml

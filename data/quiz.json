@@ -1,0 +1,37 @@
+{
+  "title": "Find your Skin Genie match",
+  "questions": [
+    {
+      "id": "experience",
+      "label": "How comfortable are you with beauty tools?",
+      "answers": [
+        {
+          "label": "I want the gentlest starter option",
+          "value": "starter"
+        },
+        {
+          "label": "I already use beauty tools carefully",
+          "value": "advanced"
+        },
+        {
+          "label": "I want a relaxing facial massage tool",
+          "value": "massage"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "starter": [
+      "derma-roller-0-5mm",
+      "electric-gua-sha-facial-tool"
+    ],
+    "advanced": [
+      "gold-derma-roller-1-5mm",
+      "electric-gua-sha-facial-tool"
+    ],
+    "massage": [
+      "electric-gua-sha-facial-tool",
+      "derma-roller-0-5mm"
+    ]
+  }
+}

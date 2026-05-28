@@ -1,0 +1,280 @@
+{
+  "products": [
+    {
+      "id": "electric-gua-sha-facial-tool",
+      "handle": "electric-gua-sha-facial-tool",
+      "title": "La Beauté Electric Facial Massage Tool",
+      "shortTitle": "Electric Facial Tool",
+      "variantColor": "White / chrome",
+      "depth": null,
+      "priceCAD": 189,
+      "compareAtCAD": null,
+      "asin": "B0BTSC27CH",
+      "sku": null,
+      "marketplace": "Amazon Canada",
+      "category": "Facial massage tool",
+      "template": "product.skin-genie",
+      "canonicalAssetFolder": "/Users/mariabotcheliouk/Documents/SkinGenie/demo-site/assets_v3 + /Volumes/Maria's Storage Mac/Electric Gua Sha January photoshoot",
+      "claimBoundary": "Cosmetic facial massage and beauty-routine language only; keep wording tactile, practical and non-results-led.",
+      "badge": "Best seller",
+      "eyebrow": "ELECTRIC FACIAL TOOL",
+      "headline": "A polished facial ritual, in one rechargeable tool.",
+      "description": "Gentle vibration, warming feel and cooling feel give your routine a quiet spa-like moment at home. Use with facial oil or moisturizer for comfortable glide.",
+      "bullets": [
+        "Gentle vibration feel",
+        "Warming and cooling modes",
+        "Rechargeable USB-C design",
+        "Includes stand, pouch, cable and manual"
+      ],
+      "specs": [
+        [
+          "Modes",
+          "Warm · Cool · EMS feel"
+        ],
+        [
+          "Charging",
+          "USB-C"
+        ],
+        [
+          "Included",
+          "Stand, pouch, cable, manual"
+        ],
+        [
+          "Use",
+          "Cosmetic facial massage"
+        ]
+      ],
+      "routine": [
+        "Apply facial oil or moisturizer for glide.",
+        "Choose the mode that feels best for your routine.",
+        "Move slowly along the cheeks, forehead and jaw area with light pressure.",
+        "Wipe clean and store on the stand."
+      ],
+      "faq": [
+        [
+          "Can I use it with serum?",
+          "Yes. Use it with a facial oil, serum or moisturizer so the tool glides comfortably."
+        ],
+        [
+          "What does EMS mode feel like?",
+          "A light pulsing sensation. Start low and stop if the sensation feels uncomfortable."
+        ],
+        [
+          "How do I clean it?",
+          "Wipe the metal surface with a soft damp cloth after each use and let it dry before storing."
+        ]
+      ],
+      "media": [
+        "/assets/products/electric-gua-sha-facial-tool/hero.jpg",
+        "/assets/products/electric-gua-sha-facial-tool/gallery-device.jpg",
+        "/assets/products/electric-gua-sha-facial-tool/gallery-lifestyle.jpg",
+        "/assets/products/electric-gua-sha-facial-tool/gallery-open-box.jpg",
+        "/assets/products/electric-gua-sha-facial-tool/gallery-led.jpg"
+      ],
+      "videos": [
+        "/assets/products/electric-gua-sha-facial-tool/demo.mp4",
+        "/assets/products/electric-gua-sha-facial-tool/open-box-demo.mp4"
+      ],
+      "seo": {
+        "title": "La Beauté Electric Facial Massage Tool | Skin Genie",
+        "description": "Shop Skin Genie La Beauté, a rechargeable electric facial massage tool for a relaxed at-home beauty ritual.",
+        "canonical": "/products/electric-gua-sha-facial-tool.html"
+      }
+    },
+    {
+      "id": "derma-roller-0-5mm",
+      "handle": "derma-roller-0-5mm",
+      "title": "Skin Genie Derma Roller 0.5mm",
+      "shortTitle": "Derma Roller 0.5mm",
+      "variantColor": "Blue / white",
+      "depth": "0.5mm",
+      "priceCAD": 45,
+      "compareAtCAD": null,
+      "asin": null,
+      "sku": "86-S67F-QL7I",
+      "marketplace": "Walmart Canada / Skin Genie",
+      "category": "Cosmetic roller",
+      "template": "product.skin-genie",
+      "canonicalAssetFolder": "/Users/mariabotcheliouk/Documents/SkinGenie/demo-site/assets_v3/derma05_* and known 0.5mm blue/white product assets",
+      "claimBoundary": "Use restrained cosmetic routine language only. Keep wording practical, hygiene-led and non-results-led.",
+      "badge": "Beginner ritual",
+      "eyebrow": "0.5MM COSMETIC ROLLER",
+      "headline": "A gentle-looking starter roller for a careful evening routine.",
+      "description": "A blue-and-white cosmetic roller with protective case and instruction-led support. Keep the page practical, clean and safety-first.",
+      "bullets": [
+        "0.5mm blue-and-white roller",
+        "Protective storage case",
+        "Instruction-led routine support",
+        "For external cosmetic use only"
+      ],
+      "specs": [
+        [
+          "Depth",
+          "0.5mm"
+        ],
+        [
+          "Colour",
+          "Blue / white"
+        ],
+        [
+          "Storage",
+          "Protective case"
+        ],
+        [
+          "Use",
+          "External cosmetic routine"
+        ]
+      ],
+      "routine": [
+        "Clean hands and target area.",
+        "Sanitize the roller before and after use.",
+        "Use light pressure and avoid irritated or broken skin.",
+        "Let the roller dry completely before storing."
+      ],
+      "faq": [
+        [
+          "Is this the beginner option?",
+          "Yes. The 0.5mm page is positioned as the gentler starter option within the Skin Genie roller line."
+        ],
+        [
+          "Can I use it every day?",
+          "Follow the product instructions and keep use conservative. Do not use on irritated or broken skin."
+        ],
+        [
+          "How should I store it?",
+          "Clean it, let it air dry, then place it back in the protective case."
+        ]
+      ],
+      "media": [
+        "/assets/products/derma-roller-0-5mm/hero.jpg",
+        "/assets/products/derma-roller-0-5mm/gallery-pack.jpg",
+        "/assets/products/derma-roller-0-5mm/gallery-lifestyle.jpg",
+        "/assets/products/derma-roller-0-5mm/gallery-instructions.jpg",
+        "/assets/products/derma-roller-0-5mm/gallery-scope.jpg"
+      ],
+      "videos": [],
+      "seo": {
+        "title": "Skin Genie Derma Roller 0.5mm | Cosmetic Roller",
+        "description": "Shop the Skin Genie 0.5mm derma roller, a blue-and-white cosmetic roller with protective case and instruction-led support.",
+        "canonical": "/products/derma-roller-0-5mm.html"
+      }
+    },
+    {
+      "id": "gold-derma-roller-1-5mm",
+      "handle": "gold-derma-roller-1-5mm",
+      "title": "Skin Genie Gold Derma Roller 1.5mm",
+      "shortTitle": "Gold Derma Roller 1.5mm",
+      "variantColor": "Black / gold",
+      "depth": "1.5mm",
+      "priceCAD": 59,
+      "compareAtCAD": null,
+      "asin": "B0CHVND31H",
+      "sku": null,
+      "marketplace": "Amazon Canada / Skin Genie",
+      "category": "Cosmetic roller",
+      "template": "product.skin-genie",
+      "canonicalAssetFolder": "/Users/mariabotcheliouk/Documents/SkinGenie/demo-site/assets_v3/gold15_* from Gold Roller corrected set",
+      "claimBoundary": "High-risk product: minimal beauty-tool wording only. Do not use blue/white MTS assets; keep copy practical and non-results-led.",
+      "badge": "Advanced ritual",
+      "eyebrow": "1.5MM GOLD ROLLER",
+      "headline": "The black-and-gold roller, clearly separated from the blue starter SKU.",
+      "description": "A gold-tone cosmetic roller for experienced beauty-tool users who want a premium-looking routine piece with clear storage and care guidance.",
+      "bullets": [
+        "Correct black-and-gold visual set",
+        "1.5mm product depth shown plainly",
+        "Protective storage presentation",
+        "For experienced cosmetic-tool users"
+      ],
+      "specs": [
+        [
+          "Depth",
+          "1.5mm"
+        ],
+        [
+          "Colour",
+          "Black / gold"
+        ],
+        [
+          "Storage",
+          "Protective case"
+        ],
+        [
+          "Use",
+          "Experienced cosmetic routine"
+        ]
+      ],
+      "routine": [
+        "Read the full instructions before first use.",
+        "Sanitize before and after every session.",
+        "Use light pressure and avoid sensitive, irritated or broken skin.",
+        "Clean, air dry and store in the case."
+      ],
+      "faq": [
+        [
+          "Is this the gold product?",
+          "Yes. This page uses the black-and-gold Gold Roller asset set only."
+        ],
+        [
+          "Is it the same as the blue 1.5mm MTS folder?",
+          "No. Blue/white MTS images are rejected for this page to avoid another product mismatch."
+        ],
+        [
+          "Who is it for?",
+          "It is positioned for experienced cosmetic-tool users who understand careful hygiene and storage."
+        ]
+      ],
+      "media": [
+        "/assets/products/gold-derma-roller-1-5mm/clean-hero.jpg",
+        "/assets/products/gold-derma-roller-1-5mm/clean-roller-detail.jpg",
+        "/assets/products/gold-derma-roller-1-5mm/gallery-closeup.jpg",
+        "/assets/products/gold-derma-roller-1-5mm/gallery-packaging.jpg",
+        "/assets/products/gold-derma-roller-1-5mm/gallery-set.jpg"
+      ],
+      "videos": [],
+      "seo": {
+        "title": "Skin Genie Gold Derma Roller 1.5mm | Gold Cosmetic Roller",
+        "description": "Shop the Skin Genie Gold Derma Roller 1.5mm, using the correct black-and-gold Skin Genie product assets.",
+        "canonical": "/products/gold-derma-roller-1-5mm.html"
+      }
+    }
+  ],
+  "claimBoundaries": {
+    "approvedTone": [
+      "beauty ritual",
+      "at-home skincare accessory",
+      "relaxing self-care routine",
+      "refreshed-looking glow",
+      "pairs with favourite serum or moisturizer",
+      "cosmetic use only"
+    ],
+    "hardAvoid": [
+      "treats",
+      "heals",
+      "repairs skin",
+      "cures",
+      "therapy",
+      "therapeutic",
+      "clinical",
+      "medical-grade",
+      "microneedling treatment",
+      "collagen",
+      "cell regeneration",
+      "wound healing",
+      "scar reduction",
+      "acne treatment",
+      "anti-aging",
+      "wrinkles",
+      "lifts",
+      "tightens",
+      "firms",
+      "lymphatic drainage",
+      "blood circulation",
+      "detox",
+      "pain relief",
+      "microchannels",
+      "professional results"
+    ],
+    "publicDisclaimer": "For external cosmetic use only. Not intended to diagnose, cure, or prevent any disease or condition.",
+    "internalNote": "Derma rollers >=0.3mm can create Canadian medical-device advertising/licensing risk; keep demo copy minimal and route regulatory decisions to compliance."
+  }
+}
